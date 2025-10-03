@@ -3,9 +3,9 @@ About pydispatcher
 
 Home: http://pydispatcher.sourceforge.net
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Multi-producer-multi-consumer signal dispatching mechanism
 

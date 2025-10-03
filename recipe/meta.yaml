@@ -30,7 +30,7 @@ test:
 
 about:
   home: http://pydispatcher.sourceforge.net
-  license: BSD 3-Clause
+  license: BSD-3-Clause
   license_family: BSD
   license_file: license.txt
   summary: 'Multi-producer-multi-consumer signal dispatching mechanism'
