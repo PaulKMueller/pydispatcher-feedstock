@@ -12,7 +12,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  noarch: python >= 3.6
+  noarch: python
   number: 2
   script: python -m pip install --no-deps --ignore-installed .
 
